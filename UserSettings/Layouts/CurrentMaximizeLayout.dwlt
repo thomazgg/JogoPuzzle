@@ -53,10 +53,8 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-  m_SerializedViewNames:
-  - UnityEditor.DeviceSimulation.SimulatorWindow
-  m_SerializedViewValues:
-  - C:\Users\CPD\Documents\GABRIEL\Projeto I\TCC_software\TCC\Game-2D-Unity-Puzzle\Library\PlayModeViewStates\6edc79a30e5c28947942f5103c37dd8e
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
   m_PlayModeViewName: GameView
   m_ShowGizmos: 0
   m_TargetDisplay: 0
@@ -88,7 +86,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -228,7 +226,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 28fbffff105d0000
+      m_ExpandedIDs: 90e7ffff7ef1ffff28fbffff105d00009a5d0000c05d00000c5e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -559,9 +557,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -6, y: 2, z: 0}
+    m_Target: {x: 922.2679, y: 561.9484, z: -815.56995}
     speed: 2
-    m_Value: {x: -6, y: 2, z: 0}
+    m_Value: {x: 922.2679, y: 561.9484, z: -815.56995}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -608,17 +606,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.01978691, y: -0.04737742, z: 0.00092613575, w: -0.9986947}
+    m_Target: {x: 0.00419011, y: -0.0024033587, z: -0.000022532578, w: -1.0000017}
     speed: 2
-    m_Value: {x: -0.019786632, y: -0.047376752, z: 0.0009261227, w: -0.99868065}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.588101
+    m_Target: 229.88652
     speed: 2
-    m_Value: 12.588101
+    m_Value: 229.88652
   m_Ortho:
     m_Target: 0
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1.06047
     m_SpeedNormalized: 0.53
@@ -667,7 +665,7 @@ MonoBehaviour:
   - {fileID: 12}
   - {fileID: 13}
   m_Selected: 0
-  m_LastSelected: 3
+  m_LastSelected: 1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -709,22 +707,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Jogos/MemoryGame/Imgs
+    - Assets/Jogos/MathGame/Imgs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Jogos/MemoryGame/Imgs
+  - Assets/Jogos/MathGame/Imgs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Joao\Documents\TCC
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2c700000
-    m_LastClickedID: 28716
-    m_ExpandedIDs: 00000000be5d0000c05d0000c25d0000c45d0000ca5d0000d05d0000
+    m_SelectedIDs: ce810000
+    m_LastClickedID: 33230
+    m_ExpandedIDs: 000000008a5e00008c5e00008e5e0000905e0000925e0000985e000040620000c46a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -752,7 +750,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000be5d0000c05d0000c25d0000c45d0000
+    m_ExpandedIDs: 000000008a5e00008c5e00008e5e0000905e0000925e0000985e000040620000c46a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -780,7 +778,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000b05d0000526e0000529800003a630000105f0000eaa50000f2ab00000497000054a400009e910000de5e00005e5e0000a089000000000000
+    m_ExpandedInstanceIDs: c6230000b05d0000526e0000529800003a630000105f0000eaa50000f2ab00000497000054a400009e910000de5e00005e5e0000a089000000000000667c0000905d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -930,7 +928,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 24176
+  m_LastSelectedObjectID: 23896
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
