@@ -86,7 +86,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -224,9 +224,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 90e7ffff7ef1ffff28fbffff105d00009a5d0000c05d00000c5e0000
+      m_SelectedIDs: 54a50000
+      m_LastClickedID: 42324
+      m_ExpandedIDs: 60c7ffffe2c7ffffd4c8ffff40c9ffffcacafffff4cbffff76daffff18e6ffff4ae6ffff36eaffffc2eaffff8cebffff9cedffff689700008c970000ce970000d49700000c9800004c980000589800006698000078980000829800007aa400009ea40000d6a40000dca4000004a500005ea5000070a500007aa50000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -552,14 +552,14 @@ MonoBehaviour:
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
-  m_2DMode: 0
+  m_2DMode: 1
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 922.2679, y: 561.9484, z: -815.56995}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 922.2679, y: 561.9484, z: -815.56995}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -606,15 +606,15 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.00419011, y: -0.0024033587, z: -0.000022532578, w: -1.0000017}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 229.88652
+    m_Target: 10
     speed: 2
-    m_Value: 229.88652
+    m_Value: 10
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
     m_Value: 1
   m_CameraSettings:
@@ -707,22 +707,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Jogos/MathGame/Imgs
+    - Assets/_MainAssets/Images/_GameImages
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Jogos/MathGame/Imgs
+  - Assets/_MainAssets/Images/_GameImages
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Joao\Documents\TCC
+  m_LastProjectPath: C:\Users\Joao\Documents\JogoPuzzle
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ce810000
-    m_LastClickedID: 33230
-    m_ExpandedIDs: 000000008a5e00008c5e00008e5e0000905e0000925e0000985e000040620000c46a0000
+    m_SelectedIDs: e29c0000
+    m_LastClickedID: 40162
+    m_ExpandedIDs: 00000000b6720000b8720000ba720000da720000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -750,7 +750,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a5e00008c5e00008e5e0000905e0000925e0000985e000040620000c46a0000
+    m_ExpandedIDs: 00000000b6720000b8720000ba720000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -775,10 +775,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000b05d0000526e0000529800003a630000105f0000eaa50000f2ab00000497000054a400009e910000de5e00005e5e0000a089000000000000667c0000905d0000
+    m_SelectedInstanceIDs: 54a50000
+    m_LastClickedInstanceID: 42324
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000b05d0000526e0000529800003a630000105f0000eaa50000f2ab00000497000054a400009e910000de5e00005e5e0000a089000000000000667c0000905d000056610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -928,7 +928,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 23896
+  m_LastSelectedObjectID: 24862
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52

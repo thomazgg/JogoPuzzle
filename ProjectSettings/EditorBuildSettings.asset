@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_MainScenes/MainMenu.unity
+    guid: 8fb833954f68e2640842680d0cc08b4d
+  - enabled: 1
+    path: Assets/Jogos/ColorGame/ColorGame.unity
+    guid: 5451121c3b7af8441854f746ea82bac8
+  - enabled: 1
+    path: Assets/Jogos/MathGame/MathGame.unity
+    guid: 74bc54d7986c1a5469e27471e597ab18
+  - enabled: 1
     path: Assets/Jogos/MemoryGame/MemoryGame.unity
     guid: 95778452aa217344cbd83d96124b12b9
+  - enabled: 1
+    path: Assets/Jogos/PipesGame/PipesGame.unity
+    guid: 91fb14d7bb6e55b49b2a5e79abfc63d7
   m_configObjects: {}
