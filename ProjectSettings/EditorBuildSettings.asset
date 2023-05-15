@@ -9,15 +9,39 @@ EditorBuildSettings:
     path: Assets/_MainScenes/MainMenu.unity
     guid: 8fb833954f68e2640842680d0cc08b4d
   - enabled: 1
-    path: Assets/Jogos/ColorGame/ColorGame.unity
-    guid: 5451121c3b7af8441854f746ea82bac8
-  - enabled: 1
     path: Assets/Jogos/MathGame/MathGame.unity
     guid: 74bc54d7986c1a5469e27471e597ab18
   - enabled: 1
     path: Assets/Jogos/MemoryGame/MemoryGame.unity
     guid: 95778452aa217344cbd83d96124b12b9
   - enabled: 1
-    path: Assets/Jogos/PipesGame/PipesGame.unity
-    guid: 91fb14d7bb6e55b49b2a5e79abfc63d7
+    path: Assets/Jogos/ColorGame/Scenes/Color1.unity
+    guid: 8d690361303e61c48bc463498e5ff0f2
+  - enabled: 1
+    path: Assets/Jogos/ColorGame/Scenes/Color2.unity
+    guid: 88f5f9ac81345f94c920ab6c02ec2717
+  - enabled: 1
+    path: Assets/Jogos/ColorGame/Scenes/Color3.unity
+    guid: a96b236cd6b67514e8cfc85c33c3c68f
+  - enabled: 1
+    path: Assets/Jogos/ColorGame/Scenes/Color4.unity
+    guid: 9b1ab642f05cf644fa7b0444b9fc4ee2
+  - enabled: 1
+    path: Assets/Jogos/PipesGame/Scenes/PipesGame.unity
+    guid: 46e96fc2a833d6846a0b25c4c4d1ef8f
+  - enabled: 1
+    path: Assets/Jogos/PipesGame/Scenes/PipesGame 1.unity
+    guid: 62efa4a18212fbe41a4a0d919e097acc
+  - enabled: 1
+    path: Assets/Jogos/PipesGame/Scenes/PipesGame 2.unity
+    guid: f5487bf94c2a3a346a45f9449cacee50
+  - enabled: 1
+    path: Assets/Jogos/PipesGame/Scenes/PipesGame 3.unity
+    guid: 9b2e2d1cf03ba8e4c98b75426ce29862
+  - enabled: 1
+    path: Assets/Jogos/PipesGame/Scenes/PipesGame 4.unity
+    guid: cb0f9be5174d8554fbcb1dfeb986700d
+  - enabled: 1
+    path: Assets/Jogos/PipesGame/Scenes/PipesGame 5.unity
+    guid: 53b8d71714529b0448ad7fb51d5c9eef
   m_configObjects: {}
