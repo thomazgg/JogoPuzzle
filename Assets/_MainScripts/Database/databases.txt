@@ -1,0 +1,7 @@
+// -- Tabela para armazenar informações sobre os jogos
+// CREATE TABLE Games ( ID INTEGER PRIMARY KEY AUTOINCREMENT, GameTitle TEXT, GameImage TEXT);
+
+// -- Tabela para armazenar as sessões dos jogadores
+// CREATE TABLE PlayerSessions ( ID INTEGER PRIMARY KEY AUTOINCREMENT, PlayerID TEXT, GameID INTEGER, EntryTime DATETIME, ExitTime DATETIME);
+
+// CREATE TABLE DailyUsage ( ID INTEGER PRIMARY KEY AUTOINCREMENT, Date DATETIME, GameID INTEGER, UsageTime INTEGER);

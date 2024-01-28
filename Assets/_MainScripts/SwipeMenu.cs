@@ -68,7 +68,7 @@ public class SwipeMenu : MonoBehaviour
         _showPageSelection = unselectedPage != null && selectedPage != null;
         if (_showPageSelection) {
             if (pageSelectionIcons == null || pageSelectionIcons.childCount != _pageCount) {
-                Debug.LogWarning("Different count of pages and selection icons - will not show page selection");
+                // Debug.LogWarning("Different count of pages and selection icons - will not show page selection");
                 _showPageSelection = false;
             } else {
                 _previousPageSelectionIndex = -1;

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  categoryName: Animais
+  categoryImage: {fileID: 21300000, guid: f26b589514ac69b40bf06b3befb87906, type: 3}
+  questions:
+  - questionInfo: "Qual \xE9 o animal mais inteligente do mundo?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cachorro
+    - Gato
+    - "Chimpanz\xE9"
+    - Golfinho
+    correctAns: "Chimpanz\xE9"
+  - questionInfo: "Qual \xE9 o animal mam\xEDfero entre as alternativas?"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Golfinho
+    - "Jacar\xE9"
+    - Peixe
+    - Porco
+    correctAns: Porco
+  - questionInfo: Qual o animal mais conhecido entre as pessoas?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Hamster
+    - Baleias
+    - Cachorros
+    - Rato
+    correctAns: Baleias
+  - questionInfo: Qual o nome desse animal?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ab217ced5c8f78749bde02ad7793ff53, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cachorro
+    - Esquilo
+    - Tigre
+    - Tartaruga
+    correctAns: Esquilo
+  - questionInfo: Qual o nome desse animal?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 74318a08bfa6bb848ba28fedadecd87d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Elefante
+    - Cobra
+    - Mosquito
+    - Tigre
+    correctAns: Tigre
